@@ -39,6 +39,7 @@ You can launch the project in two ways: via a notebook or through the terminal.
 python3.9 -m venv house_prices_env
 source house_prices_env/bin/activate
 pip install -r requirements.txt
+python3 Scripts/predict.py
 ```
 
 ### Notebook Instructions
